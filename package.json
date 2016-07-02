@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-standard-react-native",
+  "version": "1.0.0",
+  "description": "JavaScript Standard Style React-Native/React/JSX support - ESLint Shareable Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxsan/eslint-config-standard-react-native.git"
+  },
+  "author": "Sam Chen",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "react-native"
+  ],
+  "bugs": {
+    "url": "https://github.com/chenxsan/eslint-config-standard-react-native/issues"
+  },
+  "homepage": "https://github.com/chenxsan/eslint-config-standard-react-native#readme",
+  "devDependencies": {
+    "eslint": "^3.0.0",
+    "eslint-plugin-react-native": "^1.1.0"
+  },
+  "dependencies": {
+    "eslint-config-standard-react": "^2.5.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0"
+  }
+}
